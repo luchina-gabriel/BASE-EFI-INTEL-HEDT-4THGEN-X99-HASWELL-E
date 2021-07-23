@@ -10,7 +10,7 @@ Initial macOS Support|OS X 10.11, El Capitan.
 # Basic Steps
 
 1. [Download](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E/releases) the latest release;
-2. Include the necessary kext (for ethernet, audio, etc);
+2. Includes additional kexts (for ethernet, audio, etc);
 3. Include the necessary ACPI patches (.aml);
 4. Review the special notes;
 5. Generate and complete your SMBIOS infos;
