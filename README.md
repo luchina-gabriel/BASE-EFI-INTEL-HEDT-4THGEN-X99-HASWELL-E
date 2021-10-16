@@ -77,7 +77,7 @@ These files are **MUST** be included in your EFI's ACPI directory. We recommend 
 Table|Description
 :----|:----
 SSDT-PLUG|[Manual](https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug-methods/manual.html) \| [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml) \| [Details](https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug)
-SSDT-EC-DESKTOP|[Manual](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-methods/manual.html) \| [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-EC-DESKTOP.aml) \| [Details](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix)
+SSDT-EC-USBX-DESKTOP|[Manual](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-methods/manual.html) \| [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-DESKTOP.aml) \| [Details](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix)
 SSDT-RTC0-RANGE|[Manual](https://dortania.github.io/Getting-Started-With-ACPI/Universal/awac-methods/manual-hedt.html) \| [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-RTC0-RANGE-HEDT.aml) \| [Details](https://dortania.github.io/Getting-Started-With-ACPI/Universal/awac)
 SSDT-UNC|[Manual](https://dortania.github.io/Getting-Started-With-ACPI/Universal/unc0-methods/manual.html) \| [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-UNC.aml) \| [Details](https://dortania.github.io/Getting-Started-With-ACPI/Universal/unc0)
 
