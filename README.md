@@ -191,3 +191,6 @@ npci=0x3000|Alternative for `npci=0x2000`.
 https://dortania.github.io/OpenCore-Install-Guide/config-HEDT/haswell-e.html
 <br>
 https://dortania.github.io/Getting-Started-With-ACPI/
+
+## Discord - Universo Hackintosh
+- [Access Discord](https://discord.universohackintosh.com.br)
